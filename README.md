@@ -16,6 +16,6 @@
 [<img align="left" alt="Dylan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dylan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Dylan Morgani
-[instagram]: https://www.instagram.com/Dylan Morgani
-[linkedin]: https://linkedin.com/in/dylan-morgani-7211673b7
+[twitter]: https://twitter.com/DylanMorgani
+[instagram]: https://www.instagram.com/DylanMorgani
+[linkedin]: https://linkedin.com/in/DylanMorgani
