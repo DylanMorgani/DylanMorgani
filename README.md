@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/DylanMorgani
 [instagram]: https://www.instagram.com/DylanMorgani
-[linkedin]: https://linkedin.com/in/DylanMorgani
+[linkedin]: https://linkedin.com/in/dylan-morgani-7211673b7
